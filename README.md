@@ -59,6 +59,9 @@ Training generates sample images (`epoch{N}_sample.jpg`) and checkpoints (`check
 python train.py --resume outputs/checkpoint_15.pth
 ```
 
+
+*Currently working to Imporve it*
+
 ## Clinical Use
 
 Trained specifically on diabetic retinopathy (NPDR/PDR) cases for cross-modal image synthesis and research. Not for clinical diagnosis.
